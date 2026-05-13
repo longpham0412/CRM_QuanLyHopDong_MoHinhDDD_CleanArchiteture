@@ -1,0 +1,9 @@
+POST http://localhost:8080/api/hopdong
+Content-Type: application/json
+
+{
+  "maHopDong": "HD-TEST-100",
+  "khachHangId": 1,
+  "ngayKy": "2026-05-13",
+  "thoiHan": 12
+}
